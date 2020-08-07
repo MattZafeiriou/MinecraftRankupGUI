@@ -1,0 +1,21 @@
+# This plugin was made by CaptainWolfieGR ( Discord: Teh_Matt_GR#3009)
+# For the server Hecate
+
+inventory-name: "&6&lHecate Ranks"
+
+locked-skull: "SkidzGaming"
+
+locked: "&7Status: &cLocked"
+unlocked: "&7Status: &aUnlocked"
+rankup-available: "&aClick here to RankUp to &6%next_rank% &afrom &6%rank%!"
+
+rankup-broadcast: "&6%player% ranked up to %next_rank%!"
+rankup-message: "&aYou Ranked Up to &e%next_rank%&a!"
+
+RankUp-Sound: "LEVEL_UP"
+
+first-rank: "1"
+last-rank: "3"
+
+Use-Permission: "hecaterankup.open"
+NoPermissionsMessage: "&cYou haven't got the permission &e%permission% &cto open the GUI"

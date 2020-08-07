@@ -1,0 +1,16 @@
+name: HecateRankup
+main: com.CaptainWolfie.RankUp.Main
+version: 1.0.1
+description: RankUp Plugin using GUI
+authors: [CaptainWolfieGR, Hecate]
+
+commands:
+    rank:
+        description: Opens the rank GUI
+        usage: /rank
+    rankup:
+        description: Opens the rank GUI
+        usage: /rankup
+    ranks:
+        description: Opens the rank GUI
+        usage: /ranks
