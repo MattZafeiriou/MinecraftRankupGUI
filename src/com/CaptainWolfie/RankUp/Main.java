@@ -14,6 +14,12 @@ import com.CaptainWolfie.RankUp.FileManager.FileManager;
 
 import net.milkbowl.vault.economy.Economy;
 
+/*
+ * author: Matt Zafeiriou / CaptainWolfie
+ * 
+ * published: 7/8/2020
+ * 
+ */
 public class Main extends JavaPlugin
 {
 
