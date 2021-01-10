@@ -269,7 +269,6 @@ public class InventoryLoader implements Listener
 			} catch( NullPointerException e2 )
 			{
 				String rankUpTo = pl.getConfig().getString( "first-rank" );
-				p.sendMessage( rankUpTo );
 
 				if( rankUpTo.equals( items.get( e.getRawSlot() - 9 ).realName ) )
 				{
